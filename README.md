@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @roakes1
 - 👀 I’m interested in learning everything I can about programming.
-- 🌱 I’m currently learning .python, with specific applications to data science.
+- 🌱 I’m currently learning .java,.python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
